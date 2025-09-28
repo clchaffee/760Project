@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/School/760Project/GameAIProject/Content/Variant_Horror/Blueprints/BP_HorrorGameMode.uasset",
+				"G:/School/760Project/GameAIProject/Content/Variant_Horror/UI/UI_Horror.uasset",
+				"G:/School/760Project/GameAIProject/Content/Variant_Horror/Blueprints/BP_HorrorCharacter.uasset",
+				"G:/School/760Project/GameAIProject/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"G:/School/760Project/GameAIProject/Content/FirstPerson/Blueprints/BP_EnemyDefault.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/BB_EnemyDefault.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/BT_EnemyDefault.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/BTTask_FindRandomPatrol.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/BTTask_ChasePlayer.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/AIController.uasset",
+				"G:/School/760Project/GameAIProject/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/FE/BOCVCYM1H1H1BAH5DDORMF.uasset",
+				"G:/School/760Project/GameAIProject/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/0/RX/QXS23AJ2J95IWOXRBGIOH2.uasset",
+				"G:/School/760Project/GameAIProject/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"G:/School/760Project/GameAIProject/Content/AI/BP_AIController.uasset",
+				"G:/School/760Project/GameAIProject/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/F/5H/MH1B40K7NJVAHAB5NUCOIN.uasset",
+				"G:/School/760Project/GameAIProject/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/HE/OG8UP7YLDKLJGZ6KZI41ZV.uasset",
+				"G:/School/760Project/GameAIProject/Content/FirstPerson/Blueprints/AIController.uasset",
+				"G:/School/760Project/GameAIProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
